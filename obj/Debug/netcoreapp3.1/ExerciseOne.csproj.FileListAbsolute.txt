@@ -1,0 +1,13 @@
+C:\LiveExercises\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.exe
+C:\LiveExercises\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.deps.json
+C:\LiveExercises\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.runtimeconfig.json
+C:\LiveExercises\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.runtimeconfig.dev.json
+C:\LiveExercises\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.dll
+C:\LiveExercises\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.pdb
+C:\LiveExercises\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.csprojAssemblyReference.cache
+C:\LiveExercises\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.AssemblyInfoInputs.cache
+C:\LiveExercises\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.AssemblyInfo.cs
+C:\LiveExercises\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\LiveExercises\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.dll
+C:\LiveExercises\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.pdb
+C:\LiveExercises\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.genruntimeconfig.cache
